@@ -1,0 +1,7 @@
+C:\Users\tech-w46a.LAPTOP-L5H04E7E\source\repos\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\tech-w46a.LAPTOP-L5H04E7E\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\tech-w46a.LAPTOP-L5H04E7E\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\tech-w46a.LAPTOP-L5H04E7E\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\tech-w46a.LAPTOP-L5H04E7E\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\tech-w46a.LAPTOP-L5H04E7E\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\tech-w46a.LAPTOP-L5H04E7E\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
